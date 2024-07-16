@@ -7,7 +7,6 @@ Answer the following questions based on your understanding of GitHub and Visual 
 
 Questions:
 Introduction to GitHub:
-
 What is GitHub, and what are its primary functions and features? Explain how it supports collaborative software development.
 GitHub is a web-based platform built around Git, a distributed version control system. It serves as a central hub for code collaboration and management, offering features such as:
 
